@@ -15,7 +15,7 @@ The fix will run automatically on supported MangaPark domains.
 Unfortunately, Chrome Mobile does not support extensions. You have 2 options:
 
 ## ⭐ Option 1 (Recommended)
-Use **Kiwi Browser** on Android (supports most Chrome extensions).
+Use **Quetta Browser** on Android (supports most Chrome extensions).
 
 ## 🔖 Bookmarklet Method (Works on some mobile browsers)
 If you can’t use Kiwi, you can create a bookmark that runs the fix manually.
